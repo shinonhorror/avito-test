@@ -1,12 +1,11 @@
-## Available Scripts
+## Интерфейс для сайта Hacker News
 
-In the project directory, you can run:
+
+## Запуск приложения на локальном сервере
+
+В директории проекта необходимо прописать команду: 
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Это позволит запустить приложение в режиме разработчика. Приложение запускается по адресу localhost:3000. 
 
