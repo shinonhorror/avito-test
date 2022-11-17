@@ -1,0 +1,21 @@
+.loader {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border-radius: 50%;
+  border: 5px solid orange;
+  border-top: 5px solid white;
+  animation: rotate 1s infinite linear;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@keyframes rotate {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
